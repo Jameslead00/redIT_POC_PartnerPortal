@@ -2,7 +2,7 @@
   "name": "poc-partnerportal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jameslead00.github.io/redIT_POC_PartnerPortal/",
+  "homepage": "https://gentle-hill-065aa2803.1.azurestaticapps.net/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
