@@ -1,6 +1,6 @@
 import { ContextResponse, SubmitCheckInRequest, SubmitCheckInResponse } from '../models/types';
 
-const API_BASE = '/api';
+const API_BASE = 'https://pocpartnerportal-d8apevetgacbfyec.switzerlandnorth-01.azurewebsites.net/api';
 
 export async function getContext(token: string): Promise<ContextResponse> {
   const response = await fetch(`${API_BASE}/GetContext`, {
